@@ -8,7 +8,7 @@ buildscript {
         mavenCentral()
     }
 }
-
+  
 allprojects {
 
     group = 'pl.codeleak.samples.junit5-samples'
